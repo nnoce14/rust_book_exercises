@@ -1,0 +1,1 @@
+/home/nnoce12/Coding/rust/rust_book_exercises/iterators/target/debug/iterators: /home/nnoce12/Coding/rust/rust_book_exercises/iterators/src/lib.rs /home/nnoce12/Coding/rust/rust_book_exercises/iterators/src/main.rs

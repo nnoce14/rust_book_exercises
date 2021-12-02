@@ -1,0 +1,10 @@
+[workspace]
+
+members = [
+	"box_example",
+	"cons-list",
+	"deref-example",
+	"drop-example",
+	"borrowing",
+	"limit-tracker",
+]

@@ -1,0 +1,1 @@
+/home/nnoce12/Coding/rust/rust_book_exercises/add/target/debug/adder: /home/nnoce12/Coding/rust/rust_book_exercises/add/add_one/src/lib.rs /home/nnoce12/Coding/rust/rust_book_exercises/add/adder/src/main.rs

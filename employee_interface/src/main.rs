@@ -34,7 +34,6 @@ fn add_employee_to_system(map: &mut HashMap<String, Vec<String>>) {
     if map.contains_key(&department) {
         let vector = map.get_mut(&department).unwrap();
         vector.push(name);
-        println!("Vector: {:?}", vector);
     } else {
         map.insert(department, vec![name]);
     }
